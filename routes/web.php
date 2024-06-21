@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\ProductController;
 use App\Livewire\Product;
 use App\Livewire\ProductFaqView;
 use Illuminate\Support\Facades\Route;
